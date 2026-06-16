@@ -2,6 +2,8 @@
 
 Um simulador de investimentos moderno desenvolvido com HTML, CSS e JavaScript, projetado para calcular rendimentos com juros compostos, aportes mensais e projeções financeiras de longo prazo.
 
+Veja em: [Clique aqui](https://investmentsimulatortest.netlify.app/)
+
 O projeto fornece uma visualização clara da evolução do patrimônio ao longo do tempo através de gráficos interativos, permitindo que usuários simulem diferentes cenários de investimento de forma rápida e intuitiva.
 
 ---
